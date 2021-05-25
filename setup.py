@@ -7,7 +7,7 @@ with open("README.md") as read:
 
 setup(
     name="optake",
-    version="0.1.3",
+    version="0.1.4",
     description="Opt lib",
     long_description=l_descr,
     long_description_content_type="text/markdown",
