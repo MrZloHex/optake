@@ -1,0 +1,11 @@
+### cache ###
+optake/__pycache__/
+
+### venv ###
+venv/
+
+### py charm ###
+.idea/
+
+### git ###
+gt.sh
