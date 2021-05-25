@@ -35,7 +35,7 @@ class OptTake:
                     # checking for having value
                     if self._options[opt]:
                         # if dont have required value
-                        if len(argv) >= i+1:
+                        if len(argv) > i+1:
                             option.append((str(argv[i]), str(argv[i+1])))
                             i += 2
                         else:
